@@ -22,7 +22,7 @@ Traditional performance assessment relies on expert knowledge and manual interpr
   - feature engineering
   - normalization where required
 
-> (Dataset citation or source can be added here.)
+
 
 ---
 
@@ -55,7 +55,7 @@ Multiple supervised learning models were evaluated, including:
 ## Results
 The machine learning models showed promising capability in predicting Formula 1 race behaviour, capturing trends related to driver consistency and team performance across races. Ensemble-based approaches demonstrated improved robustness compared to simpler models.
 
-> (Add numerical metrics, ranking comparison, and plots here.)
+
 
 ---
 
